@@ -34,7 +34,7 @@
     "@sveltejs/svelte-repl": "0.3.0",
     "degit": "^2.1.4",
     "dotenv": "^10.0.0",
-    "jimp": "^0.8.0",
+    "jimp": "^0.22.10",
     "node-fetch": "^2.6.1",
     "node-pg-migrate": "^6.0.0",
     "shelljs": "^0.8.3",
